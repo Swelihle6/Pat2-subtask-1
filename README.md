@@ -1,1 +1,3 @@
 The Morse Code is a language that people use to communicate with each other. through telegraph, radio, satellite, or with light.
+Morse code was developed so that operators could translate the indentations marked on the paper tape into text messages. In his earliest design for a code, Morse had planned to transmit only numerals, and to use a codebook to look up each word according to the number which had been sent.
+Morse code uses short and long signals, called dots and dashes, to represent letters and numbers. Samuel Morse, an American scientist, helped developed it to send messages over long distances using wires, radios, sound, or light. Messages are sent by tapping, drumming, buzzing, clicking, or flashing light
