@@ -7,3 +7,7 @@ Morse developed a code that assigned a set of dots and dashes to each letter of 
 
 # HOW MORSE CODE SYSTEM WORKS
 Morse code uses short and long signals, called dots and dashes, to represent letters and numbers.
+
+https://www.history.navy.mil/content/dam/museums/undersea/education/Morse%20Code.pdf
+https://en.wikipedia.org/wiki/Morse_code
+https://www.britannica.com/topic/Morse-Code
