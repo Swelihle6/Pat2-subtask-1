@@ -4,3 +4,6 @@ Morse code is a method used in telecommunication to encode text characters as st
 # HISTORICAL TEXT OF WHY MORSE CODE WAS CREATED  
 Morse code was developed so that operators could translate the indentations marked on the paper tape into text messages
 Morse developed a code that assigned a set of dots and dashes to each letter of the English alphabet, allowing for simple transmission of complex messages across telegraph lines.
+
+# HOW MORSE CODE SYSTEM WORKS
+Morse code uses short and long signals, called dots and dashes, to represent letters and numbers.
